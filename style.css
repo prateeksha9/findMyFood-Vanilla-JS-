@@ -1,0 +1,133 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    align-content: center;
+}
+
+#search-bar{
+    background-color: #808080;
+    width:100%;
+    height: 60px;
+    padding-top: 10px ;
+    /* display: flex; */
+}
+
+#my-favourites{
+    margin-left: -42%;
+    margin-top: 20px;
+}
+
+#favourites-list-btn{
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #800000;
+    color: mistyrose;
+    border-width: 2px;
+    border-color: #660000;
+}
+
+/* #favourites-list-btn:hover{
+    background-color: #4d0000;
+    background-color: #000000;
+} */
+
+#search_dish{
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+}
+
+#dish-card{
+    background-color: lightgrey;
+    width: 60%;
+    height: 170px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin-left: 20%;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 20px;
+}
+
+#dish-name{
+    margin-left: 70px;
+    width: 80%;
+    height: 40px;
+    /* background-color: mediumblue; */
+    margin-top: -15px;
+    text-align: left;
+}
+
+#dish-image{
+    width: 110px;
+    height: 110px;
+    border-radius: 10px;
+}
+
+#favourite-btn{
+    margin-top: -15px;
+}
+
+#dish-abt{
+    width: 85%;
+    margin-left: 10%;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+#back-icon{
+    width: 40px;
+    margin-left: -350px;
+}
+
+#containerDishOnly{
+    width: 100%;
+    height: 100%;
+    /* background-color: lightgrey; */
+    /* background-color: orange; */
+    margin-top: 10px;
+}
+
+#dishOnlyImage{
+    width: 300px;
+    align-content: center;
+    
+}
+
+#dishHeadOnly{
+    text-align: left;
+    margin-left: 20%;
+    font-size: 40px;
+}
+
+#instructions{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+.btn{
+    /* height: 30px; */
+    min-height: 30px;
+    width: 100px;
+    background-color: indigo;
+    color: seashell;
+    border-radius: 8px;
+    border-width: 0ch;
+    padding: 3px;
+}
+
+.btn:hover{
+    border-width: 2px;
+    background-color: #4d0000;
+    border-color: #000000;
+}
+
+#knowMore{
+    margin-top: 5px;
+}
