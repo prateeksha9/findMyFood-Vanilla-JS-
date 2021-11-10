@@ -24,5 +24,6 @@ HTML, CSS, JavaScript
 
 # Important links: 
 API Used: https://www.themealdb.com/api.php
-YouTube explaination video: https://youtu.be/D_nhxDWhPbU
+Hosting Link: https://prateeksha9.github.io/findMyFood-Vanilla-JS-/index.html
+YouTube explaination video: https://youtu.be/jzX_uLq3SNQ
 
